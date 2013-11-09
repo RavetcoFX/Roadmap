@@ -1,4 +1,3 @@
-
 Infra	
 -----
 	Add Petra rel notes
@@ -38,25 +37,26 @@ KDE
 
 Feedback from Corbin
 --------------------
-    Installing Nvidia drivers makes tty and boot screen lo-res (http://www.conanblog.me/it/how-to-get-the-high-resolution-for-tty-back-after-nvidia-driver-update-in-ubuntu/)    
-    Brasero Wont open after burning a disk
-    In Spices the "Updates Available!" button is visually glitchy
+    *Changing Wallpaper somtimes freezes cinnamon (Needs reproducing)
+    *Copying large files (< 200mb), nemo reports 99% the whole time.
+    *Rename file/folder field can be hard to read in some cases, eg. the desktop
+    *In Spices the "Updates Available!" button is visually glitchy
+    *Installing Nvidia drivers makes tty and boot screen low resolution (http://www.conanblog.me/it/how-to-get-the-high-resolution-for-tty-back-after-nvidia-driver-update-in-ubuntu/)    
+    *Brasero Wont open after burning a disk
+    
     Moving applets in cinnamon panel edit mode on, glitches out systray icons when it is shifted
     Cinnamon Settings start in advanced mode on fresh install even if not in admin mode
     Cannot Middle click most toolbar items in Nemo
-    User Applet is visually off in MintX Cinnamon theme
-    Changing Wallpaper somtimes freezes cinnamon
-    Calender Applet should link to "cinnamon-settings calendar"
-    When a maximized window is minimized, and you activate the hot corner or expo, it makes a split second glitch view of that window
-    The mint logo is a bitmap(png) and is blurry when the panel is resized, it should be svg
-    Mounted disks shouldest show by default one the desktop?
-    In Applets/Desklet config, the more actions button icon makes no sense, should be cog
-    Volume change sound is terribly high pitched, it should be the bubble sound
-    LibreOffice Loading bar is orange
-    Rename file/folder field can be hard to read in some cases, eg. the desktop
+    User Applet user picture and name is visually offset in MintX Cinnamon theme
+    Calender Applet should link to "cinnamon-settings calendar"(?)
+    When a maximized window is minimized, and you activate the hot corner or expo, it makes a split second glitch view of that window (Tested with banshee)
+    The mint logo on the menu is a bitmap(png) and is blurry when the panel is resized, it should be svg
+    Mounted disks shouldent show by default one the desktop(?)
+    In Applets/Desklet config, the more actions button icon makes no sense, should be cog icon (?)
+    Volume change sound is terribly high pitched, it should be the bubble sound (?)
+    LibreOffice Loading bar is orange, should be mint green (?)
     Changing default applications does nothing
-    Copying large files (< 200mb), nemo reports 99% the whole time.    
-    gnome-disk-utility 3.8.2 is fugly
+    gnome-disk-utility 3.8.2 is fugly and unintutive
 
 De-scoped
 ---------		
