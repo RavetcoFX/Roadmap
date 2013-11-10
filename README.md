@@ -40,7 +40,7 @@ Feedback from Corbin
     *Changing Wallpaper somtimes freezes cinnamon (Needs reproducing)
     *Copying large files (< 200mb), nemo reports 99% the whole time.
     *Rename file/folder field can be hard to read in some cases, eg. the desktop
-    *In Spices the "Updates Available!" button is visually glitchy
+    *[Fixed] In Spices the "Updates Available!" button is visually glitchy
     *Installing Nvidia drivers makes tty and boot screen low resolution (http://www.conanblog.me/it/how-to-get-the-high-resolution-for-tty-back-after-nvidia-driver-update-in-ubuntu/)    
     *Brasero Wont open after burning a disk
     
